@@ -318,7 +318,7 @@ static patch_info fw_patch_table[] = {
 	{0xb733, 0x8723, "mp_rtl8723fu_fw", "rtl8723fu_fw", "rtl8723fu_config", NULL, 0}, /* RTL8723FU */
 	{0xb73a, 0x8723, "mp_rtl8723fu_fw", "rtl8723fu_fw", "rtl8723fu_config", NULL, 0}, /* RTL8723FU */
 	{0xf72b, 0x8723, "mp_rtl8723fu_fw", "rtl8723fu_fw", "rtl8723fu_config", NULL, 0}, /* RTL8723FU */
-
+  {0x2550, 0x8761, "mp_rtl8761b_fw", "rtl8761bu_fw", "rtl8761b_config", NULL, 0}, /* RTL8761BU only */
 /* NOTE: must append patch entries above the null entry */
 	{0, 0, NULL, NULL, NULL, NULL, 0}
 };
