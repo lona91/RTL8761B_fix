@@ -1,3 +1,7 @@
+Fix to a common problem with Realtek (RTL8761B) Bluetooth driver missing the right USBID 
+
+Tested on: MPOW BH519A
+
 ===============
   TITLE
 ===============
